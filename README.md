@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anasryadi
-- 👀 I’m interested in cool tech, cars and planes
+- 👀 I’m interested in cool tech, cars and travelling
 - 🌱 I’m currently learning to make advanced application
 - 💞️ I’m looking to collaborate on modern web or mobile applications
 - 📫 How to reach me anasryadi@gmail.com
